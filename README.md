@@ -151,7 +151,7 @@ With detailed metrics for each stage.
 4. **Adaptive Quantization**: Optimizes for different content types
 
 
-##Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
